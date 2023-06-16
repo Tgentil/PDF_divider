@@ -1,5 +1,7 @@
 # PDF Divider
 
+[![GitHub](https://img.shields.io/badge/Visit-My%20Profile-0891B2?style=flat-square&logo=github)](https://github.com/Tgentil)
+
 Este é um script em Python para dividir um arquivo PDF em vários arquivos PDF de uma única página.
 
 ## Pré-requisitos
